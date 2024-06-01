@@ -1,2 +1,2 @@
 # Goals_and_tools
-Goals, and which tools to fulfill them
+Goals, and play with tools to fulfill them
