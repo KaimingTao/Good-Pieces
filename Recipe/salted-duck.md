@@ -74,7 +74,7 @@ Note: the quantity of salt, anise, peppercorn should be adjusted by your favor a
 	- https://en.wikipedia.org/wiki/Huangjiu
 	- Shaoxin wine sometimes refers to high quality high price huang jiu, just use cheap one for cooking
 - Thermometer
-- Heavy duty poultry Sheer
+- Heavy duty poultry Shears
 	- https://www.amazon.com/Heavy-Duty-Poultry-Shears-Vegetable/dp/B08KSXK8BS
 	- **Not recommend to use kitchen knife because it's hard to control**
 	- **Use the sheer carefully, watch, confirm, then cut, don't get injured**
@@ -82,7 +82,7 @@ Note: the quantity of salt, anise, peppercorn should be adjusted by your favor a
 ### Prepare duck
 
 - Rinse the duck with clean water
-- Pour boiled water on the surface to tighten the skin, and reduce the salty
+- Pour boiled water on the surface to tighten the skin, and reduce the saltiness
 - Wipe it dry, and keep in the air for 30 mins
 - Add green onion, and ginger inside the belly
 
